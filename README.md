@@ -1,6 +1,6 @@
 # Backup2HTML
 
-## 演示效果
+## 演示效果（Gif）
 
 ![gif](images/gif.gif)
 
