@@ -2,7 +2,7 @@
 
 ## 演示效果
 
-- ![gif](./images/gif.gif)
+![gif](images/gif.gif)
 
 ## 全平台下载（macos、Windows、Linux）
 
