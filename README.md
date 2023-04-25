@@ -1,2 +1,9 @@
-# backup2html
-支持全平台的文件夹树结构数据备份成 HTML 文件。Supports backing up folder tree structured data to HTML files across all platforms. Thanks to Snap2HTML for the idea
+# Backup2HTML
+
+## 演示效果
+
+- ![gif](./images/gif.gif)
+
+## 全平台下载（macos、Windows、Linux）
+
+- [下载地址](https://pan.baidu.com/s/1Li-p_82RzA7x2qo1NOfecQ?pwd=97ey)
